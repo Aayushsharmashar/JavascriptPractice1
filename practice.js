@@ -1,3 +1,3 @@
 const app=()=>{
-    console.log();
+    console.log("Aayush");
 }
